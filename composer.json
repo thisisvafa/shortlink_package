@@ -2,7 +2,7 @@
     "name": "vafancy/shortlink",
     "description": "This is Short Link URL website.",
     "type": "library",
-    "license": "VAFANCY",
+    "license": "MIT",
     "authors": [
         {
             "name": "Vafa Pourtavakkoli",

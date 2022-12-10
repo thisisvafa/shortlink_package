@@ -2,8 +2,18 @@
 
 ![Issues](https://img.shields.io/github/downloads/thisvafa/shortlink_package/total)
 
-## The Short Link URL for Website
+## Command install ShortLink
 
 ```
 composer require vafancy/shortlink
+```
+
+## You must add the service provider in your config/app.php file: 
+```
+ShortLinkServiceProvider
+```
+
+## Run the migrations: After the config and migration have been published and configured, you can create the tables for this package by running:
+```
+php artisan migrate
 ```

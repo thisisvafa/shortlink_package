@@ -1,14 +1,8 @@
 # Short Link Packages for Laravel
 
-![Issues](https://img.shields.io/github/downloads/thisvafa/shortlink_package/total)
 [![Github All Releases](https://img.shields.io/github/downloads/thisvafa/shortlink_package/total.svg)]()
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/thisisvafa/shortlink_package/total?style=plastic">
-image:https://img.shields.io/github/downloads/thisisvafa/shortlink_package/total[GitHub all releases]
-https://img.shields.io/github/downloads/thisisvafa/shortlink_package/total
-image:https://img.shields.io/github/downloads/thisisvafa/shortlink_package/total[GitHub all releases]
 
 ## Command install ShortLink
-
 ```
 composer require vafancy/shortlink
 ```
